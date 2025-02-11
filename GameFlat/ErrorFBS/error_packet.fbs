@@ -1,0 +1,8 @@
+namespace FlatPacket.Error;
+
+table ErrorMessagePacket {
+	message:string;
+	critical_error:bool;
+}
+
+root_type ErrorMessagePacket;

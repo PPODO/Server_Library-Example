@@ -1,0 +1,10 @@
+include "vehicle_information.fbs";
+
+namespace FlatInGamePacket.Game;
+
+table PlayerReadyPacket {
+	uuid:int;
+	init_vehicle_information:VehicleInformation;
+}
+
+root_type PlayerReadyPacket;

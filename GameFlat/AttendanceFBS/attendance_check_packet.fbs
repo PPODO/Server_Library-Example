@@ -1,0 +1,22 @@
+include "../DefineFBS/data_define.fbs";
+include "../DefineFBS/attendance_data_define.fbs";
+
+namespace FlatPacket.AttendancePacket;
+
+enum AttendanceCheckMessageType:byte{ 
+	None=0, 
+	TodayAttendance,
+	NextDayAttendance, 
+	LeftAllDayAttendance = 3
+}
+
+table AttendanceCheckPacket {
+	request_result:short;
+	attendance_type:byte;
+	event_key:int;
+	uuid:int;
+	updated_attendance_count:int;
+	attendance_rewards:[item];
+}
+
+root_type AttendanceCheckPacket;

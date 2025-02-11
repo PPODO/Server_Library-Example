@@ -1,0 +1,10 @@
+include "data_define.fbs";
+
+namespace FlatPacket.AttendancePacket;
+
+table attendance_reward {
+	attendance_count:int(key);
+	reward_item_list:[item];
+}
+
+root_type attendance_reward;

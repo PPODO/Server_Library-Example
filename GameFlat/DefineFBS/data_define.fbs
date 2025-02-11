@@ -1,0 +1,45 @@
+namespace FlatPacket;
+
+enum PacketType:byte { 
+	None=0, 
+	Sign_In, 
+	Sign_Up,
+	User_Information,
+	Attendance_Sheets,
+	Attendance_Check,
+	MailsInfo,
+	MailConfirm,
+	MailReceive,
+	ReceivedRewards,
+	FindSession,
+	CreateSession,
+	JoinSession,
+	QuitSession,
+	DB_Sign_In,
+	DB_Sign_Up,
+	DB_User_Information,
+	DB_Attendance_Sheets,
+	DB_Attendance_Check,
+	DB_MailConfirm,
+	DB_MailReceive,
+	DB_CheckExpiredMails,
+	DB_MailsInfo,
+	Error,
+	Disconnect,
+	JsonDownloadStartPacket,
+	JsonDownloadingPacket,
+	JsonDownloadEndPacket=27
+}
+
+enum RequestMessageType : byte { 
+	None=0,
+	Succeeded,
+	Failed=2 
+}
+
+table item {
+	item_id:int32;
+	item_count:int32;
+}
+
+root_type item;

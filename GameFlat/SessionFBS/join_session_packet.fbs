@@ -1,0 +1,9 @@
+include "session_info.fbs";
+
+namespace FlatPacket.SessionPacket;
+
+table JosinSession {
+	session_info:session_information;
+}
+
+root_type JosinSession;

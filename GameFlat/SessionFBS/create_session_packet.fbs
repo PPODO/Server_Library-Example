@@ -1,0 +1,10 @@
+include "../DefineFBS/session_data_define.fbs";
+
+namespace FlatPacket.SessionPacket;
+
+table CreateSession {
+	requested_user_uuid:int;
+	session_name:string;
+}
+
+root_type CreateSession;

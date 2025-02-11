@@ -1,0 +1,8 @@
+namespace FlatPacket.SessionPacket;
+
+table SessionGameStartPacket {
+	server_address:string;
+	server_port_number:short;
+}
+
+root_type SessionGameStartPacket;

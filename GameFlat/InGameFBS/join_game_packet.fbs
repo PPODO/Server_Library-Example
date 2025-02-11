@@ -1,0 +1,13 @@
+namespace FlatInGamePacket.Game;
+
+table UserSpawnInfo {
+	uuid:int;
+	user_name:string;
+	spawn_index:short;
+}
+
+table JoinGamePacket {
+	joined_users:[UserSpawnInfo];
+}
+
+root_type JoinGamePacket;

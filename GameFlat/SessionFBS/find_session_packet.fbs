@@ -1,0 +1,11 @@
+include "../DefineFBS/session_data_define.fbs";
+include "session_info.fbs";
+
+namespace FlatPacket.SessionPacket;
+
+table FindSessionPacket {
+	page:int;
+	sessions:[session_information];
+}
+
+root_type FindSessionPacket;

@@ -1,0 +1,10 @@
+namespace FlatInGamePacket;
+
+enum PacketType:byte { 
+	None=0, 
+	Join,
+	Ready,
+	Start,
+	GameData,
+	HeartBeat = 5
+}

@@ -1,0 +1,499 @@
+[
+   {
+      "AttendanceDatas" : [
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 50,
+                  "item_id" : 1015
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 100,
+                  "item_id" : 1015
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 50,
+                  "item_id" : 1015
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 100,
+                  "item_id" : 1015
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 50,
+                  "item_id" : 1015
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 100,
+                  "item_id" : 1015
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 50,
+                  "item_id" : 1015
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 1000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 100,
+                  "item_id" : 1015
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : true,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 100,
+                  "item_id" : 1015
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : true,
+            "Send_To_Mail" : false,
+            "listOfItems" : [
+               {
+                  "item_count" : 100,
+                  "item_id" : 1015
+               }
+            ]
+         }
+      ],
+      "Event_End_Date" : "2124-1-1",
+      "Event_ID" : 1001,
+      "Event_Start_Date" : "2024-1-1",
+      "Event_Type" : 1,
+      "Sheet_Name" : "Daily Attendance"
+   },
+   {
+      "AttendanceDatas" : [
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 10000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 20000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 10000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 20000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 10000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 20000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 10000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 20000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 10000,
+                  "item_id" : 1001
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 20000,
+                  "item_id" : 1001
+               }
+            ]
+         }
+      ],
+      "Event_End_Date" : "2024-7-19",
+      "Event_ID" : 1002,
+      "Event_Start_Date" : "2024-6-12",
+      "Event_Type" : 3,
+      "Sheet_Name" : "Special Attendance 01"
+   },
+   {
+      "AttendanceDatas" : [
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 100,
+                  "item_id" : 1015
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 200,
+                  "item_id" : 1015
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 300,
+                  "item_id" : 1015
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 400,
+                  "item_id" : 1015
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 500,
+                  "item_id" : 1015
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 600,
+                  "item_id" : 1015
+               }
+            ]
+         },
+         {
+            "Is_Special_Reward" : false,
+            "Send_To_Mail" : true,
+            "listOfItems" : [
+               {
+                  "item_count" : 700,
+                  "item_id" : 1015
+               }
+            ]
+         }
+      ],
+      "Event_End_Date" : "2024-7-19",
+      "Event_ID" : 1005,
+      "Event_Start_Date" : "2024-6-20",
+      "Event_Type" : 3,
+      "Sheet_Name" : "Special Attendance 02"
+   }
+]

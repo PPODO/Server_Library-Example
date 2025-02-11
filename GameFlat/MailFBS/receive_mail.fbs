@@ -1,0 +1,13 @@
+include "../DefineFBS/data_define.fbs";
+
+namespace FlatPacket.MailPacket;
+
+table MailReceive {
+	uuid:int;
+	page:short;
+	mail_id:int64;
+	receive_all:bool;
+	received_rewards:[item];
+}
+
+root_type MailReceive;

@@ -1,0 +1,16 @@
+namespace FlatInGamePacket.Game;
+
+table vector {
+	x:float;
+	y:float;
+	z:float;
+}
+
+table VehicleInformation {
+	location:vector;
+	rotation:vector;
+	velocity:vector;
+	horizontal:float;
+}
+
+root_type VehicleInformation;

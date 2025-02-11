@@ -1,0 +1,12 @@
+include "../DefineFBS/data_define.fbs";
+
+namespace FlatPacket.UserPacket;
+
+table UserInformationPacket {
+	request_result:short;
+	uuid:int;
+	number_of_unconfirmed_mails:int;
+	inventory_list:[item];
+}
+
+root_type UserInformationPacket;

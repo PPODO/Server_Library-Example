@@ -1,0 +1,21 @@
+include "../DefineFBS/attendance_data_define.fbs";
+
+namespace FlatPacket.AttendancePacket;
+
+table AttendanceDetail {
+	event_type:short;
+	event_id:short;
+	event_name:string;
+	current_attendance_count:short;
+	max_attendance_day:short;
+	attendance_rewards:[attendance_reward];
+}
+
+table AttendanceSheetsPacket {
+	request_result:short;
+	uuid:int;
+	requested_event_type:short;
+	attendance_sheets:[AttendanceDetail];
+}
+
+root_type AttendanceSheetsPacket;

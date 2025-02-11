@@ -1,0 +1,11 @@
+include "../DefineFBS/data_define.fbs";
+
+namespace FlatPacket.Inventory;
+
+table InventoryPacket {
+	request_result:short;
+	uuid:int;
+	inventory_list:[item];
+}
+
+root_type InventoryPacket;

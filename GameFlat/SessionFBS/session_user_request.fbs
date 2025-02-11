@@ -1,0 +1,21 @@
+include "session_info.fbs";
+
+namespace FlatPacket.SessionPacket;
+
+enum SessionRequestType : byte {
+	ESRT_None = 0,
+	ESRT_Ready,
+	ESRT_NotReady,
+	ESRT_Chat,
+	ESRT_Start,
+	ESRT_Quit = 5
+}
+
+table SessionUserRequestPacket {
+	session_id:int;
+	uuid:int;
+	request:short;
+	message:string;
+}
+
+root_type SessionUserRequestPacket;

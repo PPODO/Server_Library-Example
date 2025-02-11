@@ -1,0 +1,12 @@
+namespace FlatPacket.AccountPacket;
+
+table AccountPacket {
+	message_type:short;
+	user_id:string;
+	user_pwd:string;
+	user_name:string;
+	uuid:int;
+	already_logged_in:bool;
+}
+
+root_type AccountPacket;

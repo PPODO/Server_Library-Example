@@ -1,0 +1,23 @@
+include "../DefineFBS/data_define.fbs";
+
+namespace FlatPacket.MailPacket;
+
+table mail {
+	mail_id:int64;
+	mail_name:string;
+	received_date:string;
+	expiration_period:string;
+	attached_items:[item];
+	is_checked:bool;
+}
+
+table ReceivedMailInformationPacket {
+	request_result:short;
+	uuid:int;
+	row_count_limit:short;
+	total_mail_count:short;
+	page:short;
+	received_mails:[mail];
+}
+
+root_type ReceivedMailInformationPacket;

@@ -1,0 +1,13 @@
+include "../DefineFBS/session_data_define.fbs";
+
+namespace FlatPacket.SessionPacket;
+
+table session_information {
+	session_id:int(key);
+	session_name:string;
+	session_current_users_count:short;
+	session_users_max_limit:short;
+	users_information:[session_user_info];
+}
+
+root_type session_information;

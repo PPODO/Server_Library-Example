@@ -1,0 +1,11 @@
+include "data_define.fbs";
+
+namespace FlatPacket.SessionPacket;
+
+table session_user_info {
+	uuid:int;
+	user_name:string;
+	ready_state:bool;
+}
+
+root_type session_user_info;

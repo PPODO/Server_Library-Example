@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\IOCP">
+      <UniqueIdentifier>{c1180710-54c7-42a1-a9e3-b8252caa137d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\MessageProcessor">
+      <UniqueIdentifier>{597865a1-759a-42b1-93a0-fd7482206e1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System">
+      <UniqueIdentifier>{ebc32651-a291-4105-a1d2-6584fda61f02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\DBSystem">
+      <UniqueIdentifier>{fa15f5e1-99db-4294-8cf7-04c35f9c2178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\AttendanceSystem">
+      <UniqueIdentifier>{d86daedb-24a3-4388-bdc0-83ed7400100e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\TimerSystem">
+      <UniqueIdentifier>{6bfc956e-1669-452e-87e8-98860133080b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\UserSystem">
+      <UniqueIdentifier>{77617d7f-645c-4ae2-971a-48ad3cc1f3ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\JsonDownloadSystem">
+      <UniqueIdentifier>{331208c9-7115-4874-9d94-1c6d297bba16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\DBSystem\UserDBSystem">
+      <UniqueIdentifier>{2594b0ce-c750-4e50-9a09-ba84acaf08bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\DBSystem\GameDBSystem">
+      <UniqueIdentifier>{2aeff1b1-45d5-4a57-8422-e3173105d27e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\DBSystem\DBUtil">
+      <UniqueIdentifier>{567f6dfd-9908-4eda-996c-a36df2e2b7d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\DBSystem\DBBaseSystem">
+      <UniqueIdentifier>{34938482-3b01-4d84-ab4a-31d816ff2a25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\System\SessionSystem">
+      <UniqueIdentifier>{ca452a81-e273-47cd-beb1-1abae0424720}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IOCP\IOCP.cpp">
+      <Filter>Header Files\IOCP</Filter>
+    </ClCompile>
+    <ClCompile Include="MessageProcessor\MessageProcessor.cpp">
+      <Filter>Header Files\MessageProcessor</Filter>
+    </ClCompile>
+    <ClCompile Include="System\AttendanceSystem\AttendanceSystem.cpp">
+      <Filter>Header Files\System\AttendanceSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="System\JsonDownloadSystem\JsonDownloadSystem.cpp">
+      <Filter>Header Files\System\JsonDownloadSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="System\DBSystem\DBManager.cpp">
+      <Filter>Header Files\System\DBSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="System\DBSystem\UserDBSystem\UserDBSystem.cpp">
+      <Filter>Header Files\System\DBSystem\UserDBSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="System\DBSystem\DBBaseSystem\DBBaseSystem.cpp">
+      <Filter>Header Files\System\DBSystem\DBBaseSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="System\TimerSystem\TimerSystem.cpp">
+      <Filter>Header Files\System\TimerSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="System\DBSystem\GameDBSystem\GameDBSystem.cpp">
+      <Filter>Header Files\System\DBSystem\GameDBSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="System\UserSystem\UserSystem.cpp">
+      <Filter>Header Files\System\UserSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="System\System.cpp">
+      <Filter>Header Files\System</Filter>
+    </ClCompile>
+    <ClCompile Include="System\SessionSystem\SessionSystem.cpp">
+      <Filter>Header Files\System\SessionSystem</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IOCP\IOCP.h">
+      <Filter>Header Files\IOCP</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageProcessor\MessageProcessor.h">
+      <Filter>Header Files\MessageProcessor</Filter>
+    </ClInclude>
+    <ClInclude Include="System\AttendanceSystem\AttendanceSystem.h">
+      <Filter>Header Files\System\AttendanceSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="System\JsonDownloadSystem\JsonDownloadSystem.h">
+      <Filter>Header Files\System\JsonDownloadSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="System\DBSystem\DBManager.h">
+      <Filter>Header Files\System\DBSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="System\DBSystem\DBUtil\DBUtil.h">
+      <Filter>Header Files\System\DBSystem\DBUtil</Filter>
+    </ClInclude>
+    <ClInclude Include="System\DBSystem\UserDBSystem\UserDBSystem.h">
+      <Filter>Header Files\System\DBSystem\UserDBSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="System\DBSystem\DBBaseSystem\DBBaseSystem.h">
+      <Filter>Header Files\System\DBSystem\DBBaseSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="System\TimerSystem\TimerSystem.h">
+      <Filter>Header Files\System\TimerSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="System\DBSystem\GameDBSystem\GameDBSystem.h">
+      <Filter>Header Files\System\DBSystem\GameDBSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="System\UserSystem\UserSystem.h">
+      <Filter>Header Files\System\UserSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="System\System.h">
+      <Filter>Header Files\System</Filter>
+    </ClInclude>
+    <ClInclude Include="System\SessionSystem\SessionSystem.h">
+      <Filter>Header Files\System\SessionSystem</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
